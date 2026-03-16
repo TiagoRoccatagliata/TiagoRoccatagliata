@@ -4,40 +4,6 @@ Software Developer focused on building scalable web systems with **TypeScript, N
 
 I currently work as a developer at **AgroSistemas SA**, building internal platforms and client-facing systems using modern web technologies. My work focuses on **performance, scalability and maintainable architecture**.
 
-I enjoy turning complex product ideas into reliable production systems.
-
----
-
-**Frontend**
-- TypeScript
-- React
-- Next.js 
-
-**Backend**
-- Node.js
-- NestJS
-- REST APIs
-- Django
-- Flask
-
-**Database**
-- PostgreSQL
-- MongoDB
-
-**Infrastructure**
-- Linux
-- VPS deployments
-- Cloudflare
-- Git workflows
-
----
-
-- Building **scalable web applications**
-- **Frontend architecture** with modern React frameworks
-- **API design and backend systems**
-- **Performance optimization**
-- Production deployments and infrastructure
-
 ---
 
 ## 🏗 Production Projects
@@ -52,21 +18,9 @@ High-performance production website handling:
 - **67% cache hit ratio using Cloudflare**
 - Fully deployed and maintained on Linux VPS
 
-Stack:
-
-Next.js
-TypeScript
-TailwindCSS
-Cloudflare
-Linux
-
-
----
-
 ### AgroSistemas Platform
 
 https://agrosistemas.com.ar
-
 
 Internal systems and client applications used by business teams.
 
@@ -77,16 +31,9 @@ Key work:
 - Scalable interfaces for data visualization
 - Integration with backend APIs
 
----
+### 47-flete
 
-##  Currently Learning
-
-- Advanced TypeScript
-- System design
-- Backend architectures
-- Distributed systems concepts
-
----
+https://47flete.com
 
 ## Career Goal
 
@@ -99,12 +46,3 @@ Interested in roles such as:
 - Frontend Engineer
 - Backend (Node / NestJS)
 
----
-
-##  Find me
-
-Portfolio  
-https://www.roccatagliata.dev
-
-LinkedIn  
-https://linkedin.com/in/tiago-roccatagliata
