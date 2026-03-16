@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Tiago 👋
 
-<!--
-**TiagoRoccatagliata/TiagoRoccatagliata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer and Systems student.
 
-Here are some ideas to get you started:
+Currently working as a developer trainee at AgroSistemas while studying a Bachelor's degree in Systems.  
+Interested in building real software, learning advanced programming concepts, and growing as a software engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I'm working with
+- TypeScript
+- React
+- Next.js
+- TailwindCSS
+- PostgreSQL
+- Prisma
+
+## Currently learning
+- Advanced JavaScript
+- Software engineering practices
+- System design
+- TypeScript ecosystem
+
+## Projects
+- Business systems at AgroSistemas
+- Web applications with Next.js
+- Personal developer portfolio
+
+## Interests
+- Software architecture
+- Building scalable applications
+- Long-term investing and technology
+
+## Find me here
+- LinkedIn: https://linkedin.com/in/tuusuario
